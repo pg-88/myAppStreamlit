@@ -1,0 +1,11 @@
+html5lib
+jeepney
+lxml
+macaroonbakery
+matplotlib
+more-itertools
+olefile
+streamlit
+ufw
+unattended-upgrades
+urllib3

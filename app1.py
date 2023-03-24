@@ -36,6 +36,7 @@ def main():
         """, unsafe_allow_html=True)
     st.pyplot(trig)
     l = st.latex(lbl)
+
     
 
 
